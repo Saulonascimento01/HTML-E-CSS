@@ -1,0 +1,20 @@
+@charset "UTF-8";
+    bodY{
+        background-color: rgb(188, 240, 137);
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    h1{
+        color: rgb(34, 68, 1);
+    }
+    h1#principal{
+text-align: center;
+    }
+    h2{
+        color: rgb(76, 134, 19);
+    }
+    .intermediário{
+        background-color: chartreuse;
+    }
+    .avançado{
+        background-color: aqua;
+    }
